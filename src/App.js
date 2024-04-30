@@ -1,4 +1,5 @@
 import { About } from './components/About/About';
+import { Advantages } from './components/Advantages/Advantages';
 import { Header } from './components/Header/Header';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header />
       <About />
+      <Advantages />
     </>
   );
 }

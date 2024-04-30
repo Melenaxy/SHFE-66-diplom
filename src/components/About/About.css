@@ -18,13 +18,13 @@
     border-left: 9px solid rgba(255, 168, 0, 1);
 }
 
-p {
+.about-text {
     font-size: 24px;
     font-weight: 400;
     line-height: 28.13px;
     text-align: left;
 }
 
-p:not(:last-child) {
+.about-text:not(:last-child) {
     margin-bottom: 27px;
 }

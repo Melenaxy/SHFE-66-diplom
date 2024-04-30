@@ -9,7 +9,9 @@ export const HeaderNavigation = () => {
           <li className='nav-menu-item'>
             <a href='#about'>О нас</a>
           </li>
-          <li className='nav-menu-item'>Как это работает</li>
+          <li className='nav-menu-item'>
+            <a href='#advantages'>Как это работает</a>
+          </li>
           <li className='nav-menu-item'>Отзывы</li>
           <li className='nav-menu-item'>Контакты</li>
         </ul>
